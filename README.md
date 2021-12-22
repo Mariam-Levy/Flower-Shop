@@ -9,4 +9,4 @@ E-Commerce  para practicar HTML, CSS y Responsive.
 https://mariam-levy.github.io/Flower-Shop/
 
 ## Creditos ✒️
-Diseño realizado por [Mr. Web Designer](https://www.youtube.com/watch?v=cLOT0APQzDs)
+Diseño realizado por [Mr. Web Designer](https://www.youtube.com/c/MrWebDesignerAnas/featured)
